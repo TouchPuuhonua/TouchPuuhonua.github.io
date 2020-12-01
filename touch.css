@@ -30,6 +30,6 @@ li {
   padding-bottom: 5pt;
 }
 
-ul.inline li {
+ul.inline {
     display: flex; 
 }
