@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+		<meta charset="UTF-8" />
+    <title> Touch at Pu'uhonua Contact Form </title>
+		<style>
+			<!-- 
+					 .Limbo { display: none; }
+					 #to_whom_label { margin-bottom: .3em; }
+					 #to_whom { padding: 0 0 0 0; margin-top: 0; }
+					 dt { margin-top: .8em; }
+					 dd { margin-top: .3em; }
+			-->
+		</style>
+  </head>
+  <body>
+    <form action="/cgi-bin/contact-touch.tcl" method="POST">
+      <h1> Touch at Pu'uhonua Contact Form </h1>
+      <p>
+				I would be delighted to hear from you!
+				<br />
+				You can use this handy on-line form to send me email:
+      </p>
+      <p id="to_whom_label">
+				To reduce spam, please check my name:
+			</p>
+			<ul id="to_whom">
+				<li> <input type="checkbox" name="send_to_List" value="error" /> Bozo </li>
+				<li> <input type="checkbox" name="send_to_List" value="touch" /> Touch </li>
+				<li class="Limbo"> <input type="checkbox" name="send_to_List" value="error" /> <em>Spam Trap</em> </li>
+			</ul>
+      <dl>
+				<dt> <label for="name">  Your Name:  </label> </dt>
+				<dd>
+					<input type="text" id="name" name="name" size="40" required="required" />
+				</dd>
+				<dt> <label for="email">  Your Email Address:  </label> </dt>
+				<dd>
+					<input type="email" id="email" name="email" size="40" required="required" />
+				</dd>
+				<dt> <label for="org"> Your Organization: <em>(optional)</em> </dt>
+				<dd> <input type="text" id="org" name="org" size="40" /> </dd>
+				<dt> <label for="group"> I know you from: <em>(optional)</em> </dt>
+				<dd>
+					<input type="text" id="group" name="group" size="40"
+								 placeholder="Group, Event, ..." />
+				</dd>
+				<dt> <label for="subject">  The Subject Of This Message:  </label> </dt>
+				<dd>
+					<input type="text" id="subject" name="subject" size="40" required="required" />
+				</dd>
+			</dl>
+			<p>
+				<label for="message">Your message:</label>
+				<br />
+				<textarea id="message" name="message" cols="60" rows="5" required="required">
+				</textarea>
+			</p>
+			<p>
+				<input type="reset" value="Clear Form" />
+				&nbsp;&nbsp;&nbsp;
+				<input type="submit" name="submit" value="Send Message" />
+			</p>
+		</form>
+	</body>
+</html>
+		

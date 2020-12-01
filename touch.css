@@ -1,0 +1,50 @@
+/*
+#top_left {
+	float: left;
+}
+
+#top_right {
+	position: relative;
+	float: right;
+}
+
+.cols {
+	-moz-column-width: 20em;
+}
+*/
+
+.cols {
+	column-width: 30em;
+	column-gap: 10px;
+	-webkit-column-width: 30em;
+	-webkit-column-gap: 10px;
+	-moz-column-width: 30em;
+	-moz-column-gap: 10px;
+}
+
+.Top {
+}
+
+.Middle {
+  font-size: large;
+}
+
+.MiddleLeft {
+  position: absolute;
+  vertical-align: top;
+  width: 45%;
+}
+
+.MiddleRight {
+  width: 45%;
+  vertical-align: top;
+  margin-left:50%;
+}
+
+.Bottom {
+}
+
+li {
+  font-size: large;
+  padding-bottom: 5pt;
+}
