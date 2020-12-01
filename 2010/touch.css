@@ -1,0 +1,55 @@
+#top {
+}
+
+#top_left {
+	width: 50%;
+	float: left;
+}
+
+#top_right {
+	  width: 30%;
+	float: right;
+	padding-right: 10%;
+}
+
+#main {
+	  clear: both;
+}
+
+.cols {
+	column-width: 20em;
+	column-rule-width: 10px;
+	-webkit-column-width: 20em;
+	-webkit-column-rule-width: 10px;
+	-moz-column-width: 20em;
+	-moz-column-rule-width: 10px;
+}
+
+/*
+.Top {
+}
+
+.Middle {
+	font-size: large;
+}
+
+.MiddleLeft {
+	position: absolute;
+	vertical-align: top;
+	width: 45%;
+}
+
+.MiddleRight {
+	width: 45%;
+	vertical-align: top;
+	margin-left:50%;
+}
+
+.Bottom {
+}
+
+li {
+	font-size: x-large;
+	padding-bottom: 5pt;
+}
+*/

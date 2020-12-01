@@ -15,3 +15,5 @@ bar.*
 *.tmp
 *.foo
 *.bar
+*.mmd
+*.org
