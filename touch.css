@@ -33,3 +33,7 @@ li {
 ul.inline {
     display: flex; 
 }
+
+ul.inline li {
+    padding-right: 10px;
+}
