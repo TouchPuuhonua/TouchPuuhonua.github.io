@@ -32,9 +32,10 @@ li {
 
 ul.inline {
   display: flex; 
-  justify-content: space-between;
+/*  justify-content: space-between; */
 }
 
 ul.inline li {
-  padding-right: 10px;
+  margin-left: 20px;
+/*  padding-right: 10px; */
 }
