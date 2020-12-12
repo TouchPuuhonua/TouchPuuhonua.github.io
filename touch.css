@@ -38,3 +38,7 @@ ul.inline {
 ul.inline li {
   padding-left: 10px;
 }
+
+ul.inline li::before {
+content: "•";
+}
