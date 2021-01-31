@@ -31,14 +31,9 @@ li {
 }
 
 ul.inline {
-  display: flex; 
-  list-style: none;
+  display: flex;
 }
 
 ul.inline li {
-  padding-left: 10px;
-}
-
-ul.inline li::before {
-content: "•";
+  margin-right: 35px;
 }
