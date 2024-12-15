@@ -1,7 +1,7 @@
 * How To Become Immortal
 
-We will be going straight to strategy and tactics, right after dealing
-with any burning questions you need answered first.
+We will be going straight to strategy and tactics after dealing
+with any questions you might feel can't wait.
 
 ** First: Your Burning Questions
 
@@ -25,11 +25,15 @@ We could stop (and reverse) aging using either
 - Advanced biotechnology
 - Mature molecular nanotechnogy
 
-Advanced biotechnology is a limited form of molecular nanotechnology
+ Biotechnology is a limited form of molecular nanotechnology.  In a
+  nutshell:
 - Sections of DNA ("Genes") are transcribed into Messenger RNA
 - Messenger RNA is transcribed into 3D protein structures
   - These protein structures are atomically precise!
   - But only consist of about 20 different components.
+- This system is self-reproducing from materials available in the
+  environment, so it can quickly scale up to tackle huge projects,
+  e.g. blue whales and sequoias!
 - Protein structures are used to build and catalyze other structures
   - In principle, they could build anything, given suitable feedstock.
   - Many of the things proteins do in nature as astounding!
@@ -41,6 +45,8 @@ Molecular nanotechnology is more general
 - The small molecules can contain any stable atomic isotopes.
 - Assemblers use general 3D positioning techniques
   -  assembling any desired 3D structures with atomic precision!
+- Assemblers can make more assemblers out of common materials,
+  allowing such a system to scale up to making gigantic structures.
 
 Biotechnology offers extraordinary opportunities for extending the
 possibilities of the human organism, but it will initially be limited
@@ -52,9 +58,11 @@ exploit the strategies used by these immortal cells and long-lived
 organisms.
 
 Molecular nanotechnology offers even more extraordinary opportunities
-for hacking human beings, including replacing parts (or all) of our
+for hacking human beings, including replacing part (or all) of our
 bodies with structures which have capabilities far beyond those of any
-biological structure.
+biological structure.  Designing with mature nanotechnology is much
+easier than with biotechnology because we can directly realize any
+design.
 
 ** The Third (And Possibly Best) Path to Immortality
 
@@ -101,32 +109,39 @@ available sooner rather than later.
 Your chance of living long enough to live forever is better than you
 might think.
 
-- Suppose you adopt some practices now which slow your aging by a few
-  years
+Here's a (made-up) example scenario of how it might go:
+- Starting today: you adopt some modest practices which slow your
+  aging by a few years
   - e.g. a better diet, a few well-chosen supplements, modest exercise,
     giving up smoking, etc.
-- 10 years later, new treatments can reverse some kinds of aging damage
-  - sets your bio-age back approximately 10 years
+- Over the next 10: years you take advantage of new treatments that
+  reverse some kinds of aging damage
+  - setting your bio-age back approximately 10 years
   - ==> several such treatments are in clinical trials right now!
-- 10 years later new treatment cut the aging rate in half
-- 20 years later, new treatments cut the aging rate in half again
-- 40 years later new treatments stop aging completely!
-  - It took 80 years, you only aged about 10 years waiting for it!
-- X years later, molecular nanotechnology allows full rejuvenation
+- 10 years later: new treatments cut the aging rate in half
+- 20 years later: new treatments cut the aging rate in half again
+- 40 years later: new treatments stop aging completely!
+  - It took 80 years, but since you only aged about 10 years waiting
+    for it, you were still alive to take advantage of it all!
+- Eventually molecular nanotechnology allows full rejuvenation
   - You're still alive for it ==> You win!
 
-The numbers in the scenario above are made up,
-- but the timeline is not unreasonable!
-- In reality the treatment options would arrive more gradually.
-  - this would give an even more optimistic outcome!
+While the numbers in the example scenario are made up
+- The timeline of 80 years is not unreasonable!
+- In reality, treatment options would arrive more gradually.
+  - This would give an even more optimistic outcome!
 
-The bottom line is that the gradual slowing of aging, along with the
-occasional reversal of some of aging's effects greatly increases your
-chances of living long enough to live forever.  And simple things you
-can do now can make a big difference about your living long enough to
-catch this wave.
+The bottom line:
+1. The gradual slowing of aging, along with the occasional reversal of
+   some of aging's effects greatly increases your chances of living
+   long enough to live forever
+2. Small changes you can do early can make a big difference about
+   your living long enough to catch this wave.
 
 **** Adopting Healthy Practices Now
+
+/This section needs to be replaced with pointers to better resources./
+- ==> Suggestions?
 
 Although we have a good general scientific education
 - We are not biomedical researchers!
@@ -176,8 +191,8 @@ available sooner.  Here are some ways you can help:
 - Choosing to use the best intelligence amplifying computer systems
   - Would you enjoy this?
     - You don't have to be a "geek" to enjoy using such systems!
-    - Only some geeks do, and only some non-geeks do.
-    - ==> Let us know if you'd like to explore this pathway!!
+      - Most geeks don't - and many non-geeks do!
+  - ==> Let us know if you'd like to explore this pathway!!
   - More people using these systems help us make them better
     - They are designed to capture feedback and continuously improve.
   - Intelligence amplification brings us closer to immortality pathways!
@@ -185,25 +200,24 @@ available sooner.  Here are some ways you can help:
   - You could work on technologies leading to immortality!
 - Are you an entrepreneur?
   - You can create enterprises which lead towards immortality.
-- Do you participate in politics?
+- Do you participate in politics or law?
   - Good legal structures and incentives can help.
   - Other legal structures, even if well intended, can delay immortality!
 
 ** Plan B: Suspended Animation
 
-If a person is has a terminal illness or is nearing their end of life
-from increasing fragility due to aging, is it possible to put them
-into a state of suspended animation to postpone death until technology
-advances?
+If a person has a terminal illness or is nearing death from
+aging-related causes, is it possible to put them into a state of
+suspended animation to postpone death until technology advances?
 
 *** Cryonic Suspension
 
 There is a technology which can stop all aging in simple organisms and
-stop the decay in organs which need to be preserved for later organ
+stop the decay in organs which need to be preserved for later
 transplantation.  The technology is Cryonic Suspension.  This involves
-cooling a body or organ after replacing the its fluids with
+cooling a body or organ after replacing its fluids with
 cryoprotectants which suppress the formation of ice crystals.  The
-body or organ eventually "vitrifies", forming a glass-like solid.
+body or organ "vitrifies", forming a glass-like solid.
 
 Some small animals have been successfully vitrified with cryonic
 suspension and later thawed and successfully revived.  Some human
@@ -212,41 +226,39 @@ later thawed and successfully implanted in a patient.
 
 Cryonic suspension applied to a complete human body is not yet
 reversible.  Significant advances in molecular nanotechnology will be
-required in order reverse today's best forms of cryonic suspension.
+required in order to reverse today's best forms of cryonic suspension.
 But once your body is suspended, it can wait decades, or even
 centuries with no change until perfect reversal is possible.  If you
-have a terminal illness which will soon kill you, cryonic suspension
-could be a desirable option.  Any molecular nanotechnology good enough
-to revive you should also be good enough to restore your health and
-rejuvenate you.
+have an incurable condition which will soon kill you, cryonic
+suspension could be a desirable option.  Any molecular nanotechnology
+good enough to revive you should also be good enough to restore your
+health and rejuvenate you.
 
 Current laws in all countries consider a person who has been
 cryonically suspended to be dead.  Anyone who cryonically suspended a
 terminally ill person would be prosecuted for murder, even if the
-patient requested the procedure.  But times are changing.  Many
+patient requested the procedure.  But times are changing.  Several
 countries and US States now allow assisted suicide for people with
-terminal conditions.  Cryonic suspension is not currently a legal
-option.
+terminal conditions.  But cryonic suspension is not currently a legal
+option for them.
 
-Possible new legal framework:
-- Allow cryonic suspension whenever assisted suicide would be allowed.
-- Establish legal rights for the suspended person.
-- Regulate cryonic suspension and subsequent storage of the body as a
-  medical procedure which must maximize the potential for revivification.
-  - Note: Long-term storage of cryonically suspended patients is
-    /cheaper/ than current procedures which marginally extend the life
-    of terminally ill patients.  It can be funded with a modest life
-    insurance policy!
+We urgently need a new legal framework to
+- allow cryonic suspension whenever assisted suicide would be allowed
+- provide legal rights for the suspended person
+- ensure competent cryonic suspension and subsequent storage
+- Note: Long-term storage of cryonically suspended patients is
+  /cheaper/ than current procedures which marginally extend the life
+  of terminally ill patients.  It can be funded with a modest life
+  insurance policy!
 - ==> Would you like to help establish such a legal framework in your
   country, state or province?
 
-Several not-for-profit companies currently offer Cryonic Suspension
+Several not-for-profit companies currently offer cryonic suspension
 and storage for people interested in immortality even though the
 procedure cannot be applied until the patient is declared dead!  Why
 do some people arrange for such a service?  People are declared dead
 when current technology can't revive them.  Could future molecular
-nanotechnology revive a person who was suspended shortly after current
-medical practice would consider them dead?  Perhaps so!  If future
+nanotechnology revive such a person?  Perhaps so!  If future
 technology can revive, restore and rejuvenate them, they win.  If not,
 they've lost nothing.
 
@@ -255,20 +267,19 @@ information present in the cells of our nervous system is not
 destroyed.  Loss of information happens in minutes at body
 temperature.  Yet people have been revived, apparently unharmed, after
 more than an hour when their body temperature was lowered by cold
-water.
+water.  Little information loss should happen during the cooling
+process and no information would be lost once vitrification is
+complete.
 
 *** Alternative Methods For Suspended Animation
 
 Many organisms can hybernate, either slowing or completely stopping
-aging processes.  Some small animals can freeze solid, stopping aging
-completely, and then resume normal life when they thaw.
+their aging processes.  Some small animals can freeze solid, stopping
+aging completely, and then resume normal life when they thaw.
 
 It seems reasonable that before any of our technologies are able to
 rejuvenate people we may learn how to put people in a state of
 hibernation or in a state allowing reversible freezing.
-
-It will be important to have legal options ready as soon as any such
-technologies are close to being available.
 
 *** Cultural and Legal Change is Essential
 
