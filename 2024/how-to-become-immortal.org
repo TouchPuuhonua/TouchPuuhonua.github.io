@@ -25,7 +25,7 @@ We could stop (and reverse) aging using either
 - Advanced biotechnology
 - Mature molecular nanotechnogy
 
- Biotechnology is a limited form of molecular nanotechnology.  In a
+Biotechnology is a limited form of molecular nanotechnology.  In a
   nutshell:
 - Sections of DNA ("Genes") are transcribed into Messenger RNA
 - Messenger RNA is transcribed into 3D protein structures
@@ -36,17 +36,17 @@ We could stop (and reverse) aging using either
   e.g. blue whales and sequoias!
 - Protein structures are used to build and catalyze other structures
   - In principle, they could build anything, given suitable feedstock.
-  - Many of the things proteins do in nature as astounding!
+  - Many of the things proteins do in nature are astounding!
   - Designing proteins to do new things is a huge challenge!
 
 Molecular nanotechnology is more general
-- Molecular assemblers receive instructions from a digital network
-- The assemblers mechanically assemble small molecules as desired.
+- Molecular assemblers receive instructions from a digital network.
+- The assemblers mechanically assemble small molecules as directed.
 - The small molecules can contain any stable atomic isotopes.
 - Assemblers use general 3D positioning techniques
   -  assembling any desired 3D structures with atomic precision!
-- Assemblers can make more assemblers out of common materials,
-  allowing such a system to scale up to making gigantic structures.
+- Assemblers can make more assemblers out of common materials
+  - scaling up exponentially to address projects of any size!
 
 Biotechnology offers extraordinary opportunities for extending the
 possibilities of the human organism, but it will initially be limited
@@ -85,24 +85,17 @@ human nervous system.  Molecular nanotechnology would allow us to make
 such a new domain available to anyone who wanted it.  It would allow
 anyone who wished to transcend all biological limitations.  We would
 retain the option of using avatars which were indistinguishable from
-our old bodies, either in simulations (like /The Matrix/ or fabulous
-computer games) or operating in the real world.  But we'd have so many
-enticing alternatives to our old body's design!
+our old bodies, either in simulations (like /The Matrix/ or
+hyper-realistic computer games) or operating in the real world.  But
+we'd have so many enticing alternatives to our old body's design!
 
 If we could pull this off, this would be the best form of immortality.
 
 ** Immortality In Your Lifetime
 
-It would be great if we live long enough to have any or all of these
-options for becoming immortal.  Given their basis in self-reproducing
-technologies, they should quickly be affordable for anyone who wants
-them.
-
-If we would like to become immortal, we need to try to live to this
-era.
-
-It would also be a good idea to do what we can to make these options
-available sooner rather than later.
+If we would like to become immortal we need to
+- live long enough that these critical technologies become available
+- make these options available sooner rather than later
 
 *** Living Long Enough To Become Immortal
 
@@ -114,7 +107,7 @@ Here's a (made-up) example scenario of how it might go:
   aging by a few years
   - e.g. a better diet, a few well-chosen supplements, modest exercise,
     giving up smoking, etc.
-- Over the next 10: years you take advantage of new treatments that
+- Over the next 10 years: you take advantage of new treatments that
   reverse some kinds of aging damage
   - setting your bio-age back approximately 10 years
   - ==> several such treatments are in clinical trials right now!
@@ -134,9 +127,9 @@ While the numbers in the example scenario are made up
 The bottom line:
 1. The gradual slowing of aging, along with the occasional reversal of
    some of aging's effects greatly increases your chances of living
-   long enough to live forever
-2. Small changes you can do early can make a big difference about
-   your living long enough to catch this wave.
+   long enough to live forever.
+2. Small changes made early can make a big difference towards your
+   living long enough to catch this wave.
 
 **** Adopting Healthy Practices Now
 
@@ -164,12 +157,15 @@ Most of the things that make a difference are not complicated, e.g.
     - Avoid inflammatory oils
     - Do MCTs help you?
     - How do you get your Omega-3 oils?
-- The label "Natural" on food has no legal meaning!
-- Which foods are better "organic"?
 - Exercise, not too much, but maybe HIIT?
   - What do you enjoy that's good for your body?
 - List your bad/questionable habits?
   - What can you give up?
+
+Most health claims are bogus
+- The label "Natural" on food has no legal meaning!
+- Most "organic" foods are probably no better.
+- Most supplements are useless.
 
 Some questions to have for any proposed practice
 - What's the quality of the science behind the practice?
@@ -231,7 +227,7 @@ But once your body is suspended, it can wait decades, or even
 centuries with no change until perfect reversal is possible.  If you
 have an incurable condition which will soon kill you, cryonic
 suspension could be a desirable option.  Any molecular nanotechnology
-good enough to revive you should also be good enough to restore your
+advanced enough to revive you should also be able to restore your
 health and rejuvenate you.
 
 Current laws in all countries consider a person who has been
@@ -268,7 +264,7 @@ destroyed.  Loss of information happens in minutes at body
 temperature.  Yet people have been revived, apparently unharmed, after
 more than an hour when their body temperature was lowered by cold
 water.  Little information loss should happen during the cooling
-process and no information would be lost once vitrification is
+process and no information would be lost once vitrification was
 complete.
 
 *** Alternative Methods For Suspended Animation
