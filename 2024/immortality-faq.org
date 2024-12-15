@@ -69,26 +69,26 @@ An Intelligence Singularity is [[https://en.wiktionary.org/wiki/overdetermined][
     - They are driven by marketing considerations
       - Computer games, social networking, office tasks, etc.
   - We know how to build much more powerful systems!
-    - Let us know if you'd like to collaborate on this!!
+    - ==> Let us know if you'd like to collaborate on this!!
 - Using biotechnology to hack the human brain.
   - Leveraging [[https://en.wikipedia.org/wiki/Savant_syndrome][Savant skills]] and expanding human genius.
   - Building a brain/computer interface from the brain-side.
-- Using nanotechnology to
-    - Build much, much more powerful computers.
-    - Build perfect brain/computer interfaces bottom-up.
+- Using nanotechnology to build
+    - Vastly more powerful computers.
+    - Perfect brain/computer interfaces, bottom-up.
 
 All of the developments above would support one another.  All of these
-pathways would be replicated to produce great numbers of
+pathways can be replicated to produce great numbers of
 super-intelligent systems.  The early super-intelligent systems would
 create more super-intelligent systems which would be capable of
 creating still more intelligent systems, and so on, eventually
 (perhaps quickly) greatly exceeding the cognitive capacities of any
 human or group of humans.
 
-This creates a singularity because we current, unaugmented human
-beings cannot extrapolate what a society of super-intelligences would
-understand, discover, find interesting or do.  If we could live to
-this era, we could be part of it all!
+This creates a singularity because the unaugmented human beings of
+today cannot extrapolate what a society of super-intelligences would
+understand, discover, find interesting or be up to.  The only way to
+understand the singularity is to live long enough to be part of it!
 
 We can't (by definition) predict what life would actually be like
 after an intelligence singularity, but we can "predict" a number of
