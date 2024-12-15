@@ -9,10 +9,11 @@ You many have a number of questions, e.g.
 - Is it possible to become immortal?
 - Would it be desirable to live a very long time?
   - What about quality of life?
-  - What about sustainability for the planet, etc.?
+  - What about sustainability for the planet?
+  - etc.
 
-For these and other questions you need answered as a supplement to
-reading this article or as a supplement
+For these and other questions you need answered before or while
+reading this article
 - see our [[file:immortality-faq.org][Immortality FAQ]]!
 
 ** The two Sure Paths to Immortality
@@ -21,8 +22,8 @@ There are at least two, and possible three pathways to full
 immortality.  We'll start with the two sure paths.
 
 We could stop (and reverse) aging using either
-- Using very advanced biotechnology.
-- Mature molecular nanotechnogy.
+- Advanced biotechnology
+- Mature molecular nanotechnogy
 
 Advanced biotechnology is a limited form of molecular nanotechnology
 - Sections of DNA ("Genes") are transcribed into Messenger RNA
