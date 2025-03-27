@@ -1,0 +1,114 @@
+* Immortality: Frequently Asked Questions
+
+** What does "Being Immortal" mean?
+
+Some simple criteria for Immortality might include
+- You don't age
+- You can't easily be killed
+- Any injuries you've sustained can be fully healed
+  - Including pre-immortality aging damage
+
+Some very desirable criteria might include
+- The quality of your life is undiminished by aging.
+- Your capacities can grow and develop indefinitely.
+  - This includes maturity and wisdom.
+- You are part of a wonderful immortal society.
+  - This includes unlimited opportunities for love.
+
+What criteria would you find desirable in an immortal life?
+- For you as an individual?
+- For a society of immortals?
+
+** Is it possible to become immortal?
+
+Definitely, and through many pathways.
+- The earliest secure pathway is through [[https://en.wikipedia.org/wiki/Molecular_nanotechnology][Molecular Nanotechnology]]
+- Everything changes when we reach the [[https://en.wikipedia.org/wiki/Technological_singularity][Intelligence Singularity]]
+
+More References:
+- [[https://touchpuuhonua.github.io/2010/musings-on-immortality][Musings On Immortality]]
+
+** Is Molecular Nanotechnology really possible?
+
+Every cell in your body and in every other living organism
+- Contains molecular nanotechnolgy machines called [[https://en.wikipedia.org/wiki/Ribosome][Ribosomes]]
+
+While we could achieve immortality through genetic engineering and
+other biological hacks, ribosomes can only build protein structures
+which makes purely biological hacks limited.  Although the proteins
+created by ribosomes can be used to create more general kinds of
+structures, a more desirable molecular nanotechnology would use
+Molecular Assemblers which could directly work with molecules of all
+(reasonably stable) atomic isotopes.  Creating molecular assemblers is
+an ambitious engineering project but it requires no breakthroughs in
+physics. The plan is to use the first simple molecular assemblers to
+create more sophisticated and specialized molecular assemblers and so
+on, in a (controlled) self-reproducing exponential expansion of
+capability.
+
+Some key Molecular Nanotechnology references:
+- [[https://www.amazon.com/Engines-Creation-Nanotechnology-Library-Science/dp/0385199732][Engines of Creation (1987)]]
+    - The original popular book, still a good starting point.
+- /Engines of Creation 2.0/ (2007) Web Book
+    - Now a bit hard to find.
+- [[https://www.amazon.com/Nanosystems-P-K-Eric-Drexler/dp/0471575186][Nanosystems: Molecular Machinery, Manufacturing, and Computation (1992)]]
+    - The original technical book.
+
+** Is an Intelligence Singularity possible?
+
+An Intelligence Singularity is [[https://en.wiktionary.org/wiki/overdetermined][overdetermined]].  It could begin with
+- An AI system that is better at creating AIs than human programmers are.
+  - This could be a very narrowly intelligent system.
+- A primitive but powerful brain/computer link
+  - Uniting the best features of humans and computers.
+  - Allowing high-bandwidth networks of such intelligences!
+- A powerful [[https://en.wikipedia.org/wiki/Intelligence_amplification][Augmentation of Intellect]] System
+  - Less invasive than a brain/computer link.
+  - Same ultimate effect, but perhaps slower to evolve.
+  - Most of today's human/computer interfaces are not very powerful
+    - They are driven by marketing considerations
+      - Computer games, social networking, office tasks, etc.
+  - We know how to build much more powerful systems!
+    - ==> Let us know if you'd like to collaborate on this!!
+- Using biotechnology to hack the human brain.
+  - Leveraging [[https://en.wikipedia.org/wiki/Savant_syndrome][Savant skills]] and expanding human genius.
+  - Building a brain/computer interface from the brain-side.
+- Using nanotechnology to build
+    - Vastly more powerful computers.
+    - Perfect brain/computer interfaces, bottom-up.
+
+All of the developments above would support one another.  All of these
+pathways can be replicated to produce great numbers of
+super-intelligent systems.  The early super-intelligent systems would
+create more super-intelligent systems which would be capable of
+creating still more intelligent systems, and so on, eventually
+(perhaps quickly) greatly exceeding the cognitive capacities of any
+human or group of humans.
+
+This creates a singularity because the unaugmented human beings of
+today cannot extrapolate what a society of super-intelligences would
+understand, discover, find interesting or be up to.  The only way to
+understand the singularity is to live long enough to be part of it!
+
+We can't (by definition) predict what life would actually be like
+after an intelligence singularity, but we can "predict" a number of
+the things that would be /possible/ in such a world.  These
+"predictions" can give a sense of just how awesome such a world would
+be, in the original sense of the word, i.e. inspiring awe.  The reason
+these "predictions" are not "real" predictions is because the
+super-human inhabitants of such a world might have ideas that go far
+beyond our wildest "predictions" - literally beyond what we /can/
+imagine!  Yet our primitive imaginings of what might be possible are
+enough to have many of us yearn to live long enough to see that new
+world!
+
+** Could Immortality Be Sustainable?
+
+An immortal society would not be sustainable if it
+- was limited to one planet
+- and continued to use traditional human bodies
+  - with all of the resource needs of such bodies
+- and added new bodies faster than they were discarded
+
+There are many possible solutions to these constraints!
+- Can you think of some?

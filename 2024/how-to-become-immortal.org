@@ -1,0 +1,288 @@
+* How To Become Immortal
+
+We will be going straight to strategy and tactics after dealing
+with any questions you might feel can't wait.
+
+** First: Your Burning Questions
+
+You many have a number of questions, e.g.
+- Is it possible to become immortal?
+- Would it be desirable to live a very long time?
+  - What about quality of life?
+  - What about sustainability for the planet?
+  - etc.
+
+For these and other questions you need answered before or while
+reading this article
+- see our [[file:immortality-faq.org][Immortality FAQ]]!
+
+** The two Sure Paths to Immortality
+
+There are at least two, and possible three pathways to full
+immortality.  We'll start with the two sure paths.
+
+We could stop (and reverse) aging using either
+- Advanced biotechnology
+- Mature molecular nanotechnogy
+
+Biotechnology is a limited form of molecular nanotechnology.  In a
+  nutshell:
+- Sections of DNA ("Genes") are transcribed into Messenger RNA
+- Messenger RNA is transcribed into 3D protein structures
+  - These protein structures are atomically precise!
+  - But only consist of about 20 different components.
+- This system is self-reproducing from materials available in the
+  environment, so it can quickly scale up to tackle huge projects,
+  e.g. blue whales and sequoias!
+- Protein structures are used to build and catalyze other structures
+  - In principle, they could build anything, given suitable feedstock.
+  - Many of the things proteins do in nature are astounding!
+  - Designing proteins to do new things is a huge challenge!
+
+Molecular nanotechnology is more general
+- Molecular assemblers receive instructions from a digital network.
+- The assemblers mechanically assemble small molecules as directed.
+- The small molecules can contain any stable atomic isotopes.
+- Assemblers use general 3D positioning techniques
+  -  assembling any desired 3D structures with atomic precision!
+- Assemblers can make more assemblers out of common materials
+  - scaling up exponentially to address projects of any size!
+
+Biotechnology offers extraordinary opportunities for extending the
+possibilities of the human organism, but it will initially be limited
+to adaptations close to what has already been done by existing
+organisms.  Most single-cell organisms are immortal.  While most
+multi-cellular organisms are not designed by evolution to be immortal,
+some are either immortal or very long lived.  We can potentially
+exploit the strategies used by these immortal cells and long-lived
+organisms.
+
+Molecular nanotechnology offers even more extraordinary opportunities
+for hacking human beings, including replacing part (or all) of our
+bodies with structures which have capabilities far beyond those of any
+biological structure.  Designing with mature nanotechnology is much
+easier than with biotechnology because we can directly realize any
+design.
+
+** The Third (And Possibly Best) Path to Immortality
+
+We don't yet know the full story about how the human brain (and the
+rest of our nervous system) stores and processes information.
+
+So far, the physical basis of consciousness (subjective experience) is
+a total mystery.
+
+We've learned a lot about the human nervous system and we're learning
+more at a rapid rate.  What if we figure the whole thing out,
+including consciousness?  Would it be possible to upload ourselves
+into a very advanced cybernetic system that would be able to support
+an even richer life than is possible in our original body?  The
+possible advantages would go far beyond immortality!
+
+We can already design cybernetic substrates which vastly exceed the
+capabilities of the neurons, synapses and nerve endings making up the
+human nervous system.  Molecular nanotechnology would allow us to make
+such a new domain available to anyone who wanted it.  It would allow
+anyone who wished to transcend all biological limitations.  We would
+retain the option of using avatars which were indistinguishable from
+our old bodies, either in simulations (like /The Matrix/ or
+hyper-realistic computer games) or operating in the real world.  But
+we'd have so many enticing alternatives to our old body's design!
+
+If we could pull this off, this would be the best form of immortality.
+
+** Immortality In Your Lifetime
+
+If we would like to become immortal we need to
+- live long enough that these critical technologies become available
+- make these options available sooner rather than later
+
+*** Living Long Enough To Become Immortal
+
+Your chance of living long enough to live forever is better than you
+might think.
+
+Here's a (made-up) example scenario of how it might go:
+- Starting today: you adopt some modest practices which slow your
+  aging by a few years
+  - e.g. a better diet, a few well-chosen supplements, modest exercise,
+    giving up smoking, etc.
+- Over the next 10 years: you take advantage of new treatments that
+  reverse some kinds of aging damage
+  - setting your bio-age back approximately 10 years
+  - ==> several such treatments are in clinical trials right now!
+- 10 years later: new treatments cut the aging rate in half
+- 20 years later: new treatments cut the aging rate in half again
+- 40 years later: new treatments stop aging completely!
+  - It took 80 years, but since you only aged about 10 years waiting
+    for it, you were still alive to take advantage of it all!
+- Eventually molecular nanotechnology allows full rejuvenation
+  - You're still alive for it ==> You win!
+
+While the numbers in the example scenario are made up
+- The timeline of 80 years is not unreasonable!
+- In reality, treatment options would arrive more gradually.
+  - This would give an even more optimistic outcome!
+
+The bottom line:
+1. The gradual slowing of aging, along with the occasional reversal of
+   some of aging's effects greatly increases your chances of living
+   long enough to live forever.
+2. Small changes made early can make a big difference towards your
+   living long enough to catch this wave.
+
+**** Adopting Healthy Practices Now
+
+/This section needs to be replaced with pointers to better resources./
+- ==> Suggestions?
+
+Although we have a good general scientific education
+- We are not biomedical researchers!
+- We are not competent to advise you!
+- We have enough trouble figuring out what we should do!
+
+We have not found ideal websites or AI advisers which can help us
+optimize our longevity and healthspan practices.
+- ==> Creating such could be a very good project!
+
+Most of the things that make a difference are not complicated, e.g.
+- Eat healthy food in moderation
+  - Learn about what works for your body!
+  - Read the label before putting it in your cart!
+  - Are fast carbs a problem for your body?
+  - Do you eat bread?
+    - Was it fully leavened with yeast?
+  - Does salt raise your blood pressure?
+  - Learn to evaluate fats!
+    - Avoid inflammatory oils
+    - Do MCTs help you?
+    - How do you get your Omega-3 oils?
+- Exercise, not too much, but maybe HIIT?
+  - What do you enjoy that's good for your body?
+- List your bad/questionable habits?
+  - What can you give up?
+
+Most health claims are bogus
+- The label "Natural" on food has no legal meaning!
+- Most "organic" foods are probably no better.
+- Most supplements are useless.
+
+Some questions to have for any proposed practice
+- What's the quality of the science behind the practice?
+- Have the results been confirmed by strong clinical trials?
+- What objective measures of aging are being used?
+- Have scientific researchers with relevant expertise and good
+  reputation in the scientific community evaluated the claims?
+
+*** Making These Options Available Sooner
+
+Living long enough to take advantage of anti-aging advances becomes
+much easier if those advances arrive sooner!
+
+You don't need to be a special genius to help make immortality options
+available sooner.  Here are some ways you can help:
+- Sharing about the possibility so that more people are helping in all
+  of their individual and collective ways.
+  - This is a great path for "people people".
+- Choosing to use the best intelligence amplifying computer systems
+  - Would you enjoy this?
+    - You don't have to be a "geek" to enjoy using such systems!
+      - Most geeks don't - and many non-geeks do!
+  - ==> Let us know if you'd like to explore this pathway!!
+  - More people using these systems help us make them better
+    - They are designed to capture feedback and continuously improve.
+  - Intelligence amplification brings us closer to immortality pathways!
+- Are you a STEM (Science, Technology, Engineering, Mathematics) Geek?
+  - You could work on technologies leading to immortality!
+- Are you an entrepreneur?
+  - You can create enterprises which lead towards immortality.
+- Do you participate in politics or law?
+  - Good legal structures and incentives can help.
+  - Other legal structures, even if well intended, can delay immortality!
+
+** Plan B: Suspended Animation
+
+If a person has a terminal illness or is nearing death from
+aging-related causes, is it possible to put them into a state of
+suspended animation to postpone death until technology advances?
+
+*** Cryonic Suspension
+
+There is a technology which can stop all aging in simple organisms and
+stop the decay in organs which need to be preserved for later
+transplantation.  The technology is Cryonic Suspension.  This involves
+cooling a body or organ after replacing its fluids with
+cryoprotectants which suppress the formation of ice crystals.  The
+body or organ "vitrifies", forming a glass-like solid.
+
+Some small animals have been successfully vitrified with cryonic
+suspension and later thawed and successfully revived.  Some human
+organs have been successfully vitrified with cryonic suspension and
+later thawed and successfully implanted in a patient.
+
+Cryonic suspension applied to a complete human body is not yet
+reversible.  Significant advances in molecular nanotechnology will be
+required in order to reverse today's best forms of cryonic suspension.
+But once your body is suspended, it can wait decades, or even
+centuries with no change until perfect reversal is possible.  If you
+have an incurable condition which will soon kill you, cryonic
+suspension could be a desirable option.  Any molecular nanotechnology
+advanced enough to revive you should also be able to restore your
+health and rejuvenate you.
+
+Current laws in all countries consider a person who has been
+cryonically suspended to be dead.  Anyone who cryonically suspended a
+terminally ill person would be prosecuted for murder, even if the
+patient requested the procedure.  But times are changing.  Several
+countries and US States now allow assisted suicide for people with
+terminal conditions.  But cryonic suspension is not currently a legal
+option for them.
+
+We urgently need a new legal framework to
+- allow cryonic suspension whenever assisted suicide would be allowed
+- provide legal rights for the suspended person
+- ensure competent cryonic suspension and subsequent storage
+- Note: Long-term storage of cryonically suspended patients is
+  /cheaper/ than current procedures which marginally extend the life
+  of terminally ill patients.  It can be funded with a modest life
+  insurance policy!
+- ==> Would you like to help establish such a legal framework in your
+  country, state or province?
+
+Several not-for-profit companies currently offer cryonic suspension
+and storage for people interested in immortality even though the
+procedure cannot be applied until the patient is declared dead!  Why
+do some people arrange for such a service?  People are declared dead
+when current technology can't revive them.  Could future molecular
+nanotechnology revive such a person?  Perhaps so!  If future
+technology can revive, restore and rejuvenate them, they win.  If not,
+they've lost nothing.
+
+Possible future technology might be able to do a lot, provided the
+information present in the cells of our nervous system is not
+destroyed.  Loss of information happens in minutes at body
+temperature.  Yet people have been revived, apparently unharmed, after
+more than an hour when their body temperature was lowered by cold
+water.  Little information loss should happen during the cooling
+process and no information would be lost once vitrification was
+complete.
+
+*** Alternative Methods For Suspended Animation
+
+Many organisms can hybernate, either slowing or completely stopping
+their aging processes.  Some small animals can freeze solid, stopping
+aging completely, and then resume normal life when they thaw.
+
+It seems reasonable that before any of our technologies are able to
+rejuvenate people we may learn how to put people in a state of
+hibernation or in a state allowing reversible freezing.
+
+*** Cultural and Legal Change is Essential
+
+There can be a significant delay between when an option is technically
+available and when it is recognized as a valid option by society and
+the law.
+
+If we want to have the possibility of avoiding death we will need to
+ensure that society and the law respect our right to make our own
+choices regarding end-of-life options.
