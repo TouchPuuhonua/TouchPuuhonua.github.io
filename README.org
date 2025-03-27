@@ -1,0 +1,6 @@
+My web pages went offline a few years ago because of reasons not
+important to share with you here.  In the meantime, I've moved my
+online presence to GitHub.  You'll find most of my current projects in
+repositories here, along with a copy of my old web pages.
+
+- [[https://touchpuuhonua.github.io/][My old Webpages]]

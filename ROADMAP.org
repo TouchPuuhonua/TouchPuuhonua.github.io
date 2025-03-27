@@ -1,0 +1,19 @@
+* Touch Website and Git Home STATUS and ROADMAP
+
+** STATUS
+
+The old Website has been moved to my Github account.  Many new
+materials are now there in other repositories.
+
+** ROADMAP
+
+How to move my intent forwards:
+
+- Create a README.org
+- Point Puuhonua.Org at something on Github
+- Link to my Touch Website and key GitHub resources from Puuhonua.Org
+- Translate my web pages to OrgMode pages
+- Create a script providing an adequate translation from OrgMode pages to WebPages
+- Replace all or most of my webpages with translations of my OrgMode Pages
+- Rationalize the storage of my WebPages and OrgMode pages on Github
+- Move all of my resources to a WicciSpace server under my domains

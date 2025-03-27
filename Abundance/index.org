@@ -1,0 +1,33 @@
+#+OPTIONS: toc:nil num:nil html-postamble:nil
+* Some Notes on *Abundance Culture*
+
+This website is accessible while in the process of being updated.
+- Please pardon any infelicities!
+- New material is begin prepared at [[https://github.com/TouchPuuhonua/Abundance#readme][This Github Repository]]
+  - You're welcome to check it out and assist if you like!
+
+** What Is Abundance?  What Is Scarcity?
+
+One of the largest and most important shifts taking place in
+the world today is the gradual shift from Scarcity Culture
+to *Abundance Culture*. Our culture directs and often limits
+our lives, especially when we are largely unaware of its
+influence and structure.
+
+** Some *Abundance Culture* Links
+
+[[file:who.org][My Participation with *Abundance Culture*]]
+
+[[http://puuhonua.org/Abundance/abundance-vs-scarcity.html][Abundance vs. Scarcity]]
+
+Many groups, organizations and communities are actively
+expanding *Abundance Culture* in their own unique ways.  Here
+are a few [[file:../orgs-human.html][Links to Humanistic Organizations]]
+
+Everyone acknowledges the vital importance of education, we
+Americans spend enormous amounts of resources on it, our
+teachers tend to be very committed and hard-working so
+[[http://ngender.net/loyl/loyl-paradigms.html][What's Undermining Education?]]  This is a good example of the
+power of paradigms in shaping thought and action.
+
+My Website: http://touch.puuhonua.org
