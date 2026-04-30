@@ -46,8 +46,8 @@ difficult since I didn't understand it myself for the longest time.
 First and very important: At a fundamental level my deviances don't
 matter.  To my friends they're not a big deal or are even attractive.
 I hope you have the same acceptance with your deviances!  People with
-modern attitudes are increasingly tolerant of deviances to the extent
-of appreciating them.  Alas, invisible deviances are often less
+modern attitudes are increasingly tolerant of deviances, often to the
+extent of appreciating them.  Alas, invisible deviances are often less
 tolerated or appreciated because they are not seen clearly, are not
 understood or are misunderstood.  For example, people who don't show
 their emotions on their faces are assumed (very incorrectly) to not
@@ -74,34 +74,37 @@ My other big deviance is that I'm non-binary.  What does this mean?
 Well, let's start with the binary gender experienced by most people.
 It seems that most people acquire their culture's gender models at a
 young age, as they acquire their native language and all of the other
-norms of their culture.  Most people see whether they are a boy or a
-girl, and later whether they're a man or a woman as an essential part
-of who they are.  Most people relate to others through that binary
-lens, almost always specifying someone's gender as essential
-information when describing something about them: When we say "I met a
-man who" vs. "I met a woman who".  Our third person pronouns require that we specify someone's gender.  For most people, gender occurs as an essential characteristic of themselves and of others.
+basic elements of their culture.  Most people see whether they are a
+boy or a girl, and later whether they're a man or a woman as an
+essential part of who they are.  Most people relate to others through
+that binary lens, almost always specifying someone's gender as
+essential information when describing something about them: People
+commonly say "I met a man who ..." vs. "I met a woman who ...".  Our
+traditional third person pronouns require that we specify someone's
+gender.  For most people, gender occurs as an essential characteristic
+of themselves and of others.
 
 If you don't think that these categories are all that important, have
 you heard about the situation of people who have gender dysphoria?
 People who's sex doesn't match their gender identity?  Gender
 dysphoria can be extremely traumatic.  Like most biological and
-psychological phenomenon, categories are only approximations to
+psychological phenomena, categories are only approximations to
 reality.  If you'd like to understand this better I highly recommend
 the video [[https://youtu.be/nVQplt7Chos?si=gJUOv4ctwSRseyA0][Sex and Sensibility]] by Forrest Valkai.  Going forward I'll
 assume that you have some understanding of these issues.
 
 Non-binary might be the simplest gender identity: None!  I don't
-identify with being a man or a woman.  I have a fairly typical male
-body, although not strongly masculine.  Some of my psychological
-characteristics are more typical in men, others more typical in
-women..  This is quite common: binary people mostly ignore such
-crossovers if they're not too large.  I get to use, enjoy and care for
-my male body like everyone does who has a male body.  I just don't
-think that having a male body means that I should behave or feel
-differently than people who have female bodies or intersex bodies do.
-I've learned to pay attention to whether people I'm interacting with
-want me to acknowledge their gender, as I don't have any automatic
-tendency to do so.
+identify with being a man or a woman.  I never identified as a boy or
+as a girl.  I have a fairly typical male body, although not strongly
+masculine.  Some of my psychological characteristics are more typical
+in men, others more typical in women.  This is quite common: Binary
+people mostly ignore such crossovers if they're not too large.  I get
+to use, enjoy and care for my male body like everyone does who has a
+male body.  I just don't think that having a male body means that I
+should behave or feel differently than people who have female bodies
+or intersex bodies do.  I've learned to pay attention to whether
+people I'm interacting with want me to acknowledge their gender, as I
+don't have any automatic tendency to do so.
 
 ** A Few Other Pieces
 
@@ -146,18 +149,21 @@ that people not understand me than believe false things about me.
 
 I developed my strategies for hiding and masking when I was young and
 insecure.  Since then I've grown up - as has modern culture, at least
-in the more educated and aware circles I inhabit.  I have the
-privileges of being an adult - an older, white, male, educated adult,
-in fact!  I have exciting and potentially revolutionary projects which
-I'd like to share with people.  I have a personal need for connection
-with others - especially since my wife died some years ago.  Hiding
-and masking is costing me far more than exposure.
+in the more educated and aware circles I inhabit.  I have the many
+privileges of being an adult whose speech reveals that I'm
+well-educated.  I have exciting and potentially revolutionary projects
+which I'd like to share with more people.  I have a personal need for
+more connection with others - especially since my primary partner died
+some years ago.  Hiding and masking is costing me far more than
+exposure.
 
 I'm decided to take off the mask with more people.  To not worry so
 much about these things.  To deal with people's reactions as I've
 always had to anyway.  And hopefully as a result, to connect with more
 people who share my interests and values and either don't care about
 my deviances or kinda like them!
+
+Thanks for learning a bit more about me!
 
 #+begin_quote
 Security is mostly a superstition. It does not exist in nature, nor do
